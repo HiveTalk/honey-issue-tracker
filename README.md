@@ -2,7 +2,7 @@
 
 Issue tracker for hivetalk honey - https://honey.hivetalk.org
 
-Honey is not yet open source, it is still in beta, ETA end of 2025 or early 2026
+Honey is not yet open source, it is still in beta, ETA end of 2025, any questions just ask
 
 File your issues for Hivetalk honey on this repository. 
 
